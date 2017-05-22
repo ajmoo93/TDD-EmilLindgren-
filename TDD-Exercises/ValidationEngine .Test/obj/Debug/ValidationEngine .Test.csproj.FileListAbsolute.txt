@@ -1,0 +1,10 @@
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\ValidationEngine .Test\bin\Debug\ValidationEngine.Test.dll
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\ValidationEngine .Test\bin\Debug\ValidationEngine.Test.pdb
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\ValidationEngine .Test\bin\Debug\nunit.framework.dll
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\ValidationEngine .Test\bin\Debug\ValidationEngine.exe
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\ValidationEngine .Test\bin\Debug\ValidationEngine.pdb
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\ValidationEngine .Test\bin\Debug\ValidationEngine.exe.config
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\ValidationEngine .Test\bin\Debug\nunit.framework.xml
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\ValidationEngine .Test\obj\Debug\ValidationEngine .Test.csprojResolveAssemblyReference.cache
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\ValidationEngine .Test\obj\Debug\ValidationEngine.Test.dll
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\ValidationEngine .Test\obj\Debug\ValidationEngine.Test.pdb

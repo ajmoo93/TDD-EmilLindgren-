@@ -1,0 +1,6 @@
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\ValidationEngine\bin\Debug\ValidationEngine.exe.config
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\ValidationEngine\bin\Debug\ValidationEngine.exe
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\ValidationEngine\bin\Debug\ValidationEngine.pdb
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\ValidationEngine\obj\Debug\ValidationEngine.csprojResolveAssemblyReference.cache
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\ValidationEngine\obj\Debug\ValidationEngine.exe
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\ValidationEngine\obj\Debug\ValidationEngine.pdb

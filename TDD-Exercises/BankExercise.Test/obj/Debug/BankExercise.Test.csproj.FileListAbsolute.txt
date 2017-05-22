@@ -1,0 +1,10 @@
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\BankExercise.Test\bin\Debug\BankExercise.Test.dll
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\BankExercise.Test\bin\Debug\BankExercise.Test.pdb
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\BankExercise.Test\bin\Debug\BankExercise.exe
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\BankExercise.Test\bin\Debug\nunit.framework.dll
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\BankExercise.Test\bin\Debug\BankExercise.pdb
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\BankExercise.Test\bin\Debug\BankExercise.exe.config
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\BankExercise.Test\bin\Debug\nunit.framework.xml
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\BankExercise.Test\obj\Debug\BankExercise.Test.csprojResolveAssemblyReference.cache
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\BankExercise.Test\obj\Debug\BankExercise.Test.dll
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\BankExercise.Test\obj\Debug\BankExercise.Test.pdb

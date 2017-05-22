@@ -1,0 +1,6 @@
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\BankExercise\bin\Debug\BankExercise.exe.config
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\BankExercise\bin\Debug\BankExercise.exe
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\BankExercise\bin\Debug\BankExercise.pdb
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\BankExercise\obj\Debug\BankExercise.csprojResolveAssemblyReference.cache
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\BankExercise\obj\Debug\BankExercise.exe
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\BankExercise\obj\Debug\BankExercise.pdb

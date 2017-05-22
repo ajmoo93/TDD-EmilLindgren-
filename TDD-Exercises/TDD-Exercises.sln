@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankExercise", "BankExercis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankExercise.Test", "BankExercise.Test\BankExercise.Test.csproj", "{41839354-E431-4217-A4D0-CC65DA702083}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationEngine", "ValidationEngine\ValidationEngine.csproj", "{FF9808A8-DE08-4FB0-86BA-0BF7AF264D63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationEngine .Test", "ValidationEngine .Test\ValidationEngine .Test.csproj", "{5E89017A-C40B-48F5-866B-1874000D8A85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,14 @@ Global
 		{41839354-E431-4217-A4D0-CC65DA702083}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41839354-E431-4217-A4D0-CC65DA702083}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41839354-E431-4217-A4D0-CC65DA702083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF9808A8-DE08-4FB0-86BA-0BF7AF264D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9808A8-DE08-4FB0-86BA-0BF7AF264D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9808A8-DE08-4FB0-86BA-0BF7AF264D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9808A8-DE08-4FB0-86BA-0BF7AF264D63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E89017A-C40B-48F5-866B-1874000D8A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E89017A-C40B-48F5-866B-1874000D8A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E89017A-C40B-48F5-866B-1874000D8A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E89017A-C40B-48F5-866B-1874000D8A85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,5 +44,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{BE455311-34B2-40AE-92F9-4E9215927E10} = {54048983-4044-4749-AAEF-E2ACF37BF699}
 		{41839354-E431-4217-A4D0-CC65DA702083} = {54048983-4044-4749-AAEF-E2ACF37BF699}
+		{FF9808A8-DE08-4FB0-86BA-0BF7AF264D63} = {130C645B-BEBB-4989-A333-0B58A37DB7C1}
+		{5E89017A-C40B-48F5-866B-1874000D8A85} = {130C645B-BEBB-4989-A333-0B58A37DB7C1}
 	EndGlobalSection
 EndGlobal
