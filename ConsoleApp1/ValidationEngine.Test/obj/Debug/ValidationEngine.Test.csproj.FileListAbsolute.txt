@@ -1,0 +1,1 @@
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\ConsoleApp1\ValidationEngine.Test\obj\Debug\ValidationEngine.Test.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\ConsoleApp1\BankExercise\obj\Debug\BankExercise.csprojResolveAssemblyReference.cache

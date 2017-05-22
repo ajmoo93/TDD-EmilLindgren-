@@ -6,10 +6,16 @@ using System.Threading.Tasks;
 
 namespace ValidationEngine
 {
-   public class Program
+   public class EmailValidator
     {
-        static void Main(string[] args)
-        {
+       
+       
+            public bool ValidateEmailAddress(string address)
+            {
+
+                return true;
+
+            }
         }
+      
     }
-}
