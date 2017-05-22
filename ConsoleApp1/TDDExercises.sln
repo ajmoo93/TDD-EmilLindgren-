@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankExercise", "BankExercis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankExercise.Test", "BankExercise.Test\BankExercise.Test.csproj", "{63AC9FE4-863F-4A2A-AB68-3505C6B0C876}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project1", "Project1", "{6D338A58-B42E-44D9-B7AE-FE6CA647B92C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -40,6 +42,8 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{EBE58A93-EC8E-4FD4-B1F8-75F6ECA3CE5F} = {6D338A58-B42E-44D9-B7AE-FE6CA647B92C}
+		{99CD2F53-043F-4835-A655-CC963E91D5CE} = {6D338A58-B42E-44D9-B7AE-FE6CA647B92C}
 		{1BDA214B-6A30-4FF0-B21C-B95C207B312D} = {89861491-1E89-4391-8A78-0A283E82F45A}
 		{63AC9FE4-863F-4A2A-AB68-3505C6B0C876} = {89861491-1E89-4391-8A78-0A283E82F45A}
 	EndGlobalSection
