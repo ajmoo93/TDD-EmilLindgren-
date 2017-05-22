@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationEngine", "Validat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationEngine.Test", "ValidationEngine.Test\ValidationEngine.Test.csproj", "{99CD2F53-043F-4835-A655-CC963E91D5CE}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BankExercie", "BankExercie", "{89861491-1E89-4391-8A78-0A283E82F45A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BankExercise", "BankExercise", "{89861491-1E89-4391-8A78-0A283E82F45A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankExercise", "BankExercise\BankExercise.csproj", "{1BDA214B-6A30-4FF0-B21C-B95C207B312D}"
 EndProject
