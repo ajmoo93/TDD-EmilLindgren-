@@ -1,0 +1,6 @@
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\TravelAgency\bin\Debug\TravelAgency.exe.config
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\TravelAgency\bin\Debug\TravelAgency.exe
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\TravelAgency\bin\Debug\TravelAgency.pdb
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\TravelAgency\obj\Debug\TravelAgency.csprojResolveAssemblyReference.cache
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\TravelAgency\obj\Debug\TravelAgency.exe
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\TravelAgency\obj\Debug\TravelAgency.pdb

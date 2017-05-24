@@ -19,7 +19,7 @@ namespace TravelAgencyTests
             sut.CreateTour("WOW Kenyan Safari", new DateTime(2017, 05, 23), 27);
 
             var Booking = sut.GetToursFor(new DateTime(2017, 05, 23));
-            Assert.AreEqual(1, Booking.Count, "");
+            Assert.AreEqual(1, Booking.Count, "bbkjhkjhjh");
         }
     }
 }

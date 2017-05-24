@@ -1,0 +1,10 @@
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\TravelAgencyTests\bin\Debug\TravelAgencyTests.dll
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\TravelAgencyTests\bin\Debug\TravelAgencyTests.pdb
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\TravelAgencyTests\bin\Debug\nunit.framework.dll
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\TravelAgencyTests\bin\Debug\TravelAgency.exe
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\TravelAgencyTests\bin\Debug\TravelAgency.pdb
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\TravelAgencyTests\bin\Debug\TravelAgency.exe.config
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\TravelAgencyTests\bin\Debug\nunit.framework.xml
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\TravelAgencyTests\obj\Debug\TravelAgencyTests.csprojResolveAssemblyReference.cache
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\TravelAgencyTests\obj\Debug\TravelAgencyTests.dll
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\TravelAgencyTests\obj\Debug\TravelAgencyTests.pdb

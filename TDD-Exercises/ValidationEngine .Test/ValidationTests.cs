@@ -10,7 +10,7 @@ namespace ValidationEngine.Test
     public class ValidationTests
     {
         [Test]
-        public void trueforvalidaddress()
+        public void SendingInTrueforvalidation_ReturnsTrue()
         {
             var sut = new EmailValidator();
 
@@ -21,25 +21,25 @@ namespace ValidationEngine.Test
 
         }
         [Test]
-        public void FalseForValidAddress()
+        public void SendingInFalseforvalidation_ReturnsFalse()
         {
             var sut = new EmailValidator();
 
            
             var IsFalse = sut.ValidateEmailAddress("not@excom");
             
-            Assert.IsFalse(IsFalse, sut.Email);
+            Assert.IsFalse(IsFalse);
 
         }
         [Test]
-        public void NullForValidAddress()
+        public void SendingInNullForValidation_ReturnsFalse()
         {
             var sut = new EmailValidator();
 
 
-            var IsNull = sut.ValidateEmailAddress("");
+            var IsFalseIfNull = sut.ValidateEmailAddress("");
 
-            Assert.IsFalse(IsNull);
+            Assert.IsFalse(IsFalseIfNull);
 
         }
     }
