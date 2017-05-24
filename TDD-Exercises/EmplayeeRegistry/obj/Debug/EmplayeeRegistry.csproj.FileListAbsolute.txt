@@ -1,0 +1,5 @@
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\EmplayeeRegistry\obj\Debug\EmplayeeRegistry.csprojResolveAssemblyReference.cache
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\EmplayeeRegistry\bin\Debug\EmplayeeRegistry.dll
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\EmplayeeRegistry\bin\Debug\EmplayeeRegistry.pdb
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\EmplayeeRegistry\obj\Debug\EmplayeeRegistry.dll
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\EmplayeeRegistry\obj\Debug\EmplayeeRegistry.pdb

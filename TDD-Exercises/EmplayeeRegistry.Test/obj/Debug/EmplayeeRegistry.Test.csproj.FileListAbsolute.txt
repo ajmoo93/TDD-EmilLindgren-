@@ -1,0 +1,9 @@
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\EmplayeeRegistry.Test\obj\Debug\EmplayeeRegistry.Test.csprojResolveAssemblyReference.cache
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\EmplayeeRegistry.Test\bin\Debug\EmplayeeRegistry.Test.dll
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\EmplayeeRegistry.Test\bin\Debug\EmplayeeRegistry.Test.pdb
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\EmplayeeRegistry.Test\bin\Debug\EmplayeeRegistry.dll
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\EmplayeeRegistry.Test\bin\Debug\nunit.framework.dll
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\EmplayeeRegistry.Test\bin\Debug\EmplayeeRegistry.pdb
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\EmplayeeRegistry.Test\bin\Debug\nunit.framework.xml
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\EmplayeeRegistry.Test\obj\Debug\EmplayeeRegistry.Test.dll
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\EmplayeeRegistry.Test\obj\Debug\EmplayeeRegistry.Test.pdb
