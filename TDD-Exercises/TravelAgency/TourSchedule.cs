@@ -20,17 +20,18 @@ namespace TravelAgency
 
         public void CreateTour(string name, DateTime dateTime, int seats)
         {
-            var ListResult = ScheduleByDay[dateTime.Day];
+            var RelsultList = ScheduleByDay.Count(x => x.When.Date == dateTime.Date);
+            //var ListResult = ScheduleByDay[dateTime.Day];
                //= new List<TourBooking> {
-            var Overlapping = ScheduleByDay.Where(x => x.When == dateTime).ToList().Count;
-            if (Overlapping >= 3)
+            var Overlapping = ScheduleByDay.Any(x => x.When.Date == dateTime.Date);
+            if (RelsultList >= 3)
                 throw new TourAllocationException();
             else
                 ScheduleByDay.Add(new TourBooking(name, dateTime, seats));
-            
-            
 
-                
+
+
+
 
             //dailyBooking.Add(new TourBooking(name, dateTime, seats));
 
