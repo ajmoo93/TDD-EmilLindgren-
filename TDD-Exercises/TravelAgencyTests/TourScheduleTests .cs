@@ -47,8 +47,7 @@ namespace TravelAgencyTests
         [Test]
         public void BookingMoreThenTreeBookings_ThrowException()
         {
-            sut.CreateTour("Tiger Safari",
-               new DateTime(2017, 05, 23), 18);
+            
             sut.CreateTour("Monkey and tiger Safari",
                 new DateTime(2017, 05, 23), 10);
             sut.CreateTour("Giraffe Exclusive safari",

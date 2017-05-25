@@ -8,26 +8,33 @@ namespace TravelAgency
 {
     public class TourSchedule
     {
-        private Dictionary<DateTime, List<TourBooking>> ScheduleByDay =
-            new Dictionary<DateTime, List<TourBooking>>();
+        // private Dictionary<DateTime, List<TourBooking>> ScheduleByDay =
+        // new Dictionary<DateTime, List<TourBooking>>();
+        public List<TourBooking> ScheduleByDay = new List<TourBooking>();
 
         public List<TourBooking> GetToursFor(DateTime dateTime)
         {
-            return ScheduleByDay[dateTime.Date];
+            var TourDate = ScheduleByDay.Where(x => x.When == dateTime).ToList();
+          return TourDate;
         }
 
         public void CreateTour(string name, DateTime dateTime, int seats)
         {
-            ScheduleByDay[dateTime.Date] = new List<TourBooking> {
-                new TourBooking(name, dateTime, seats)
-            };
-            var Overlapping = ScheduleByDay.FirstOrDefault(x => x.Key == dateTime);
-            if (Overlapping.Equals(dateTime))
+            var ListResult = ScheduleByDay[dateTime.Day];
+               //= new List<TourBooking> {
+            var Overlapping = ScheduleByDay.Where(x => x.When == dateTime).ToList().Count;
+            if (Overlapping >= 3)
                 throw new TourAllocationException();
+            else
+                ScheduleByDay.Add(new TourBooking(name, dateTime, seats));
+            
+            
 
+                
 
+            //dailyBooking.Add(new TourBooking(name, dateTime, seats));
 
-                //.Add(new TourBooking(name, dateTime, seats));
+            //.Add(new TourBooking(name, dateTime, seats));
         }
     }
 }
