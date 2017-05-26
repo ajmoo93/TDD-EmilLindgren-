@@ -19,7 +19,7 @@ namespace ValidationEngine
         public bool ValidateEmailAddress(string address)
         {
 
-            if (string.IsNullOrEmpty(address) || address.Equals(null))
+            if (string.IsNullOrEmpty(address) || address.Equals(null) || address.Equals(""))
             {
                 return false;
             }

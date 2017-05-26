@@ -61,7 +61,7 @@ namespace TravelAgencyTests
                new DateTime(2017, 05, 23), 18)
             
             );
-            Assert.AreEqual(1, booking.Count, "One booking only");
+            Assert.AreEqual(3, booking.Count, "One booking only");
         }
     }
 }
