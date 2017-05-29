@@ -1,0 +1,5 @@
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\StringCalculator\bin\Debug\StringCalculator.dll
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\StringCalculator\bin\Debug\StringCalculator.pdb
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\StringCalculator\obj\Debug\StringCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\StringCalculator\obj\Debug\StringCalculator.dll
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\StringCalculator\obj\Debug\StringCalculator.pdb
