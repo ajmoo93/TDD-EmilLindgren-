@@ -20,10 +20,44 @@ namespace StringCalculator.Test
         [Test]
         public void ReturnZeroOrEmptystring()
         {
-           var result = sut.Add("");
+            var result = sut.Add("");
+
             Assert.AreEqual(0, result);
         }
         [Test]
-        public void 
+        [TestCase(1,"1")]
+        [TestCase(2,"2")]
+        public void ReturnNumberIfGivenNumber(int expected, string input)
+        {
+            var result = sut.Add("1");
+
+            Assert.AreEqual(1, result);
+           // Assert.That(sut.Add(input), Is.EqualTo(expected));
+        }
+        [Test]
+        [TestCase(3, "1,2")]
+        [TestCase(6, "1,2,3")]
+        public void NumbersDelimitedByComma(int expected, string input)
+        {
+            var result = sut.Add(input);
+            Assert.AreEqual(expected, result);
+        }
+        [Test]
+        [TestCase(3,"1\n2")]
+
+        [TestCase(6, "//;\n1;2,\n3")]
+        [TestCase(3, "//;\n1;2;")]
+        public void ShouldBeComatiblewithDifferentParameters(int expected, string input)
+        {
+            var result = sut.Add(input);
+            Assert.AreEqual(expected, result);
+        }
+        [Test]
+        [TestCase(8, "//;\n1;\n2\n3-2")]
+        public void ShouldNotBeAllowerToSendInMinus(int expected, string input)
+        {
+            var result = sut.Add(input);
+            Assert.AreEqual(expected, result);
+        }
     }
 }
