@@ -33,10 +33,10 @@ namespace TravelAgency
                 ListBooking.Add(new Booking() { passanger = passenger, tour = tour, Seats = seats });
             }
             // fungerar inte än
-            if(tour.Seats > 0 )
-            {
-                throw new NoneAvailableSeats();
-            }
+            //if(tour.Seats > 0 )
+            //{
+            //    throw new NoneAvailableSeats();
+            //}
           }
 
         public List<Booking> GetBookingsFor(Passenger passenger)
