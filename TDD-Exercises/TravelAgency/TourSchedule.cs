@@ -10,9 +10,9 @@ namespace TravelAgency
     {
         // private Dictionary<DateTime, List<TourBooking>> ScheduleByDay =
         // new Dictionary<DateTime, List<TourBooking>>();
-        public List<TourBooking> ScheduleByDay = new List<TourBooking>();
+        public List<Tour> ScheduleByDay = new List<Tour>();
 
-        public List<TourBooking> GetToursFor(DateTime dateTime)
+        public List<Tour> GetToursFor(DateTime dateTime)
         {
             var TourDate = ScheduleByDay.Where(x => x.When == dateTime).ToList();
           return TourDate;
@@ -27,7 +27,7 @@ namespace TravelAgency
             if (RelsultList >= 3)
                 throw new TourAllocationException();
             else
-                ScheduleByDay.Add(new TourBooking(name, dateTime, seats));
+                ScheduleByDay.Add(new Tour(name, dateTime, seats));
 
 
 

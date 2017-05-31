@@ -6,6 +6,6 @@ namespace TravelAgency
     public interface ITourSchedule
     {
         void CreateTour(string name, DateTime dateTime, int seats);
-        List<TourBooking> GetToursFor(DateTime dateTime);
+        List<Tour> GetToursFor(DateTime dateTime);
     }
 }
