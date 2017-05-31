@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TravelAgency
 {
-    public class TourSchedule
+    public class TourSchedule : ITourSchedule
     {
         // private Dictionary<DateTime, List<TourBooking>> ScheduleByDay =
         // new Dictionary<DateTime, List<TourBooking>>();

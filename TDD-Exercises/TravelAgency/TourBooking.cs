@@ -18,5 +18,9 @@ namespace TravelAgency
             When = date;
             Seats = seat;
         }
+        public TourBooking()
+        {
+
+        }
     }
 }
