@@ -37,6 +37,7 @@ namespace TravelAgency
             //{
             //    throw new NoneAvailableSeats();
             //}
+           
           }
 
         public List<Booking> GetBookingsFor(Passenger passenger)

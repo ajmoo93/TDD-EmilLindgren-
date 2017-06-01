@@ -1,0 +1,6 @@
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\Nsubstututeing\bin\Debug\Nsubstututeing.exe.config
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\Nsubstututeing\bin\Debug\Nsubstututeing.exe
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\Nsubstututeing\bin\Debug\Nsubstututeing.pdb
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\Nsubstututeing\obj\Debug\Nsubstututeing.csprojResolveAssemblyReference.cache
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\Nsubstututeing\obj\Debug\Nsubstututeing.exe
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\Nsubstututeing\obj\Debug\Nsubstututeing.pdb

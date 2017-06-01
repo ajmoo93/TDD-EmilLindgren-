@@ -1,0 +1,6 @@
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\MsTesting\bin\Debug\MsTesting.exe.config
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\MsTesting\bin\Debug\MsTesting.exe
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\MsTesting\bin\Debug\MsTesting.pdb
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\MsTesting\obj\Debug\MsTesting.csprojResolveAssemblyReference.cache
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\MsTesting\obj\Debug\MsTesting.exe
+C:\Users\Emil\Source\Repos\TDD-EmilLindgren-\TDD-Exercises\MsTesting\obj\Debug\MsTesting.pdb
